@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sidrameshpatil
 - 👀 I’m interested in Software Engineering, Computer Science, Web Development
-- 🌱 I’m currently learning React 
+- 🌱 Working as integration engineer.
 - 💞️ I’m looking to collaborate on Full Stack Development
 - 📫 How to reach me: Instagram @sidramesh_patil, mail me at sidrameshpatil569@gmail.com
 
